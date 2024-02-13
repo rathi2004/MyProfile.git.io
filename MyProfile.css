@@ -1,0 +1,96 @@
+#Myphoto{
+
+    border-radius: 10%;
+    width: 3cm;
+   
+    display: block;
+    top: 0;
+    left: 0;
+    z-index: 35;
+}
+#name{
+
+    color:#fff;
+    line-height: 1.08;
+    text-shadow: unset;
+}
+#top{
+    
+    height: auto;
+    text-align: left;
+    
+    padding: 2%;
+    background-color:#313c4e;
+}
+#line{
+
+    width:5cm;
+    margin: 0%;
+}
+#line1{
+
+    width:3cm;
+    margin: 0%;
+}
+#line2{
+
+    width:7cm;
+    margin: 0%;
+}
+#aboutme{
+    
+    color: #fff;
+    min-height:auto;
+    font-size: 12px;
+    font-weight: 10;
+    text-align: justify;
+    height: auto;
+}
+
+
+#links{
+
+    width:20;
+    color:#313c4e;
+}
+#links1{
+
+    width:25;
+    color:#313c4e;
+}
+#links-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color:#f0f7f7;
+}
+
+#links-container a {
+
+    text-align: center;
+    text-decoration: none;
+    margin: 10px;
+    flex: 1; 
+}
+#subhead{
+
+    color:#313c4e;
+    font-weight: 1000;
+    
+    
+}
+#section1{
+    display: flex;
+    flex-direction: row;
+    text-align: left;
+    
+    
+}
+#dis{
+    
+    font-style: italic;
+    color:#449399;
+    font-size:10px;
+}
+
